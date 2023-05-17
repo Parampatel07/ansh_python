@@ -1,4 +1,4 @@
-# Write a programe to findout if num1 is greater 
+# Write a programe to findout if number 1 is greater 
 
 num1 = int(input("Enter value of num1 "))
 num2 = int(input("Enter value of num2 "))
