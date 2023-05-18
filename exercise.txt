@@ -1,0 +1,2 @@
+13) Write a program to accept male and female person birth day and month separately and calculate the compatibility for relationship using following criteria
+https://web.colby.edu/cogblog/files/2018/04/barnum-2-580x758.png 
